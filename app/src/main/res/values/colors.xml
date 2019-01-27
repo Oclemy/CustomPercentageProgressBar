@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#FF5733</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccentProgress">#FF5733</color>
+    <color name="colorPrimaryProgress">#FF5733</color>
+
+</resources>
